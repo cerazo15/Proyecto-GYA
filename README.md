@@ -14,14 +14,20 @@ Se tienen los registros diarios de las ventas y compras por producto desde julio
   Atributos:
    - Fecha
    - Año
-   - Semana Venta
-   - Desc Producto
+   - Mes
+   - Dia_semana
+   - Semana
+   - Producto
    - Presentacion
-   - Tipo Producto
-   - Cant. Vendida
-   - Precio de Venta
-   - Venta Total 
+   - Tipo_producto
+   - Cantidad
+   - Precio
+   - Venta_total 
 # Aporte al negocio
 Con este análisis el negocio pudo:
  - Obtener un status de la evolución de sus ventas y compras
  - Conocer los productos (categorías) que mayor venta generan
+# Análisis futuros
+El análisis anterior obedece al alcance del proyecto que estaba dado por el tiempo del mismo, sin embargo, al tener los datos de manera digital, y con el detalle que actualmente presentan, permite realizar diversos análisis que le permitan al negocio, entre otros:
+ - Generar pedidos de manera óptima
+ - Evaluar el portafolio más rentable
