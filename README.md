@@ -12,6 +12,7 @@ En el repositorio encontraremos:
 Se tienen los registros diarios de las ventas y compras por producto desde julio de 2021 a febrero de 2023 los cuales reposaban en libros contables que el tendero diligenciaba diariamente. Estos datos se pasaron a formato digital (excel), obteniendo una tabla con las siguientes características:
  
 Cantidad de registros ventas: 4394
+
 Atributos:
    - Fecha
    - Año
@@ -26,6 +27,7 @@ Atributos:
    - Venta_total
   
 Cantidad de registros compras: 770
+
 Atributos
    - Fecha Solicitud
    - Fecha Entrega  
