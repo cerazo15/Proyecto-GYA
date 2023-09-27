@@ -5,7 +5,7 @@ El objetivo principal del proyecto es realizar un diagnóstico del desempeño de
 # Que se encuentra en su repositorio
 En el repositorio encontraremos:
  - Dataframe de las ventas y compras por día (data_ventas.csv y data_compras.csv) 
- - Análisis de los datos y gráficos (Proyecto_mi_market.ipynb)
+ - Análisis de los datos y gráficos (Proyecto_GYA_CE.ipynb)
  - Manejo de base de datos en Python con sqlite3 (sql_Proyecto_GYA.ipynb)
  - Query demostrativo del manejo de la base de datos 
 # Los datos
